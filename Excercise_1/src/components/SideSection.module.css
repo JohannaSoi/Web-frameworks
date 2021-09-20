@@ -1,0 +1,35 @@
+.header {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700px;
+    }
+    
+    .container {
+        background-color: white;
+        justify-content: center;
+        width: 24%;
+        height: 600px;
+        color: black;
+        padding: 20px;
+        margin-left: 60%;
+        margin-bottom: 12px;
+        margin-top: -1551px;
+    }
+    .text {
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 700px;
+        }
+
+        .number {
+            font-size: 40px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-weight: 700px;
+            color:rgb(119, 212, 212);
+            }
+
+    .headline {
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 700px;
+    }
