@@ -1,0 +1,58 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Logitech C920x HD Pro Webcam, Full HD 1080p/30fps Video Calling, Clear Stereo Audio, HD Light Correction, Works with Skype, Zoom, FaceTime, Hangouts...",
+        "price": 59,
+        "price2":99,
+        "rating": "★★★★☆",
+        "image": "product1.png",
+        "info": "Get it as soon as Mon, Oct 11 $33.82 shipping More Buying Choices"
+      },
+      {
+        "id": 2,
+        "name": "Cat Brush Shedding Grooming, Soft Massage Cat Tongue Brush, Licking Your Cat Like a Mama Cat to Comfort, Surprise...",
+        "price": 19,
+        "price2":99,
+        "rating": "★☆☆☆☆",
+        "image": "product2.png",
+        "info": "Ships to Finland"
+      },
+      {
+        "id": 3,
+        "name": "Squatty Potty The Original Bathroom Toilet Stool, 7 Inch height, White",
+        "price": 24,
+        "price2":99,
+        "rating": "★★★★★",
+        "image": "product3.png",
+        "info": "$16.55 shipping Only 1 left in stock - order soon."
+      },
+      {
+        "id":4,
+        "name": "Amazon Basics Cast Iron Kettlebell Weight",
+        "price": 27,
+        "price2": 99,
+        "rating": "★★★☆☆",
+        "image": "product4.png",
+        "info": "$33.58 shipping"
+      },
+      {
+        "id":5,
+        "name": "SeaRoomy Burritos Tortilla Throw Blanket, Tortilla Wrap Blanket,...",
+        "price": 31,
+        "price2":99,
+        "rating": "★★★★★",
+        "image": "product5.png",
+        "info": "Ships to Finland More Buying Choices $1,003.99(18 new offers)"
+        },
+        {
+            "id":6,
+            "name": "AQKILO Handi Squirrel Finger Hand Puppet Novelty Toys Finger Doll",
+            "price": 11,
+            "price2":99,
+            "rating": "★☆☆☆☆",
+            "image": "product6.png",
+            "info": "Ships to Finland"
+            }
+    ]
+  }

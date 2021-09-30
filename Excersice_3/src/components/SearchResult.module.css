@@ -1,0 +1,47 @@
+.name
+{
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 325px;
+font-weight: lighter;
+display: -webkit-box;
+   -webkit-line-clamp: 4; 
+}
+.price
+{
+    font-weight: 700;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.prices
+{
+    font-weight: 700;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.info
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: lighter;
+  color:grey;
+  width: 180px;
+  display: -webkit-box;
+   -webkit-line-clamp: 4; 
+}
+.rating
+{
+color: orange;
+font-size: 25px;
+}
+.product
+{
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 30px;
+}
